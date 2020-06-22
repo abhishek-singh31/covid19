@@ -1,0 +1,77 @@
+body{
+  margin: 0;
+  margin-top: 20px;
+  background-color: #DDF3E5;
+  text-align: center;
+}
+img{
+  height: 20%;
+  width: 20%;
+}
+.first{
+  display: inline;
+  margin: 0;
+  color:#393E46;
+  font-family: 'Impact' ,sans-serif;
+  font-size: 600%;
+  position: relative;
+  bottom: 65px;
+}
+.covidimage{
+  margin-right: 20px;
+  height: 200px;
+  width: 200px;
+}
+hr{
+  border-top-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  width: 7% ;
+  margin-bottom: 20px;
+}
+.para{
+  margin-left: 10px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: left;
+  font-size: 150%;
+  font-family: 'Calibri' , sans-serif;
+}
+.sym{
+  display: inline;
+  text-align: center;
+  font-size: 150%;
+  font-family: 'Calibri',sans-serif;
+  font-weight: bold;
+  color: #393E46;
+}
+.second{
+  margin-top: 50px;
+  font-size: 300%;
+  font-family: 'Impact',sans-serif;
+}
+table{
+  margin-left: 400px;
+  margin-bottom: 50px;
+  text-align: left;
+  display: inline;
+}
+.footer{
+  margin: 0px;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+}
+.last{
+  margin: 0px;
+  padding: 20px;
+  color: white;
+  font-family: 'Calibri';
+  font-size: 150%;
+}
+.contact{
+  margin-right: 20px;
+  height: 4%;
+  width: 4%;
+}

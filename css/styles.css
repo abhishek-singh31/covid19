@@ -1,78 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jaldi:wght@700&display=swap');
+*{margin: 0;
+padding: 0;}
 body{
   margin: 0;
-  margin-top: 20px;
+  margin-top: 1.4641288433382138vw;
   background-image: linear-gradient(to left ,#a9a9a9,#f5f5f5,rgba(115, 75, 109, 0.4));
   text-align: center;
 }
 img{
-  height: 20%;
-  width: 20%;
+  height: 6.513909224011713vw;
+  width: 6.513909224011713vw;
+}
+.small{
+  margin: 0;
+  height: 10.513909224011713vw;
+  width: 10.513909224011713vw;
+  position: absolute;
+  left:19.03367496339678vw;
+  top:0.36603221083455345vw;
 }
 .first{
   display: inline;
   margin: 0;
+  padding-left:4.7641288433382138vw;
   color:#393E46;
-  font-family: 'Impact' ,sans-serif;
-  font-size: 600%;
+  font-family: 'Comfortaa';
+  font-size:  8.199121522693996vw;
   position: relative;
-  bottom: 65px;
+  bottom: 0.5856515373352855vw;
+  text-decoration: underline;
 }
 .covidimage{
-  margin-right: 20px;
-  height: 200px;
-  width: 200px;
+  margin-right:  1.4641288433382138vw;
+  height: 14.641288433382138vw;
+  width: 14.641288433382138vw;
 }
 hr{
   border-top-color: grey;
   border-style: none;
   border-top-style: dotted;
-  border-width: 10px;
-  width: 7% ;
-  margin-bottom: 20px;
+  border-width: 0.7320644216691069vw;
+  width: 7.320644216691069vw ;
+  margin-bottom: 1.4641288433382138vw;;
 }
 .para{
-  margin-left: 10px;
-  margin-top: 50px;
-  margin-bottom: 50px;
-  text-align: left;
-  font-size: 150%;
-  font-family: 'Calibri' , sans-serif;
+  padding-top: 3.6603221083455346vw;
+  padding-bottom: 3.6603221083455346vw;
+  text-align: center;
+  font-size: 3.342606149341142vw;
+  font-family: 'Jaldi';
 }
 .sym{
   display: inline;
   text-align: center;
-  font-size: 150%;
-  font-family: 'Calibri',sans-serif;
-  font-weight: bold;
+  font-family: 'Jaldi';
   color: #393E46;
 }
 .second{
-  margin-top: 50px;
-  font-size: 300%;
-  font-family: 'Impact',sans-serif;
+  font-size: 7.2620790629575405vw;
+  font-family: 'Comfortaa';
+  text-decoration: underline;
+  margin-top: 1.171303074670571vw;
+  margin-bottom:0;
 }
 table{
-  margin-left: 400px;
-  margin-bottom: 50px;
-  text-align: left;
   display: inline;
+  font-family: 'Jaldi';
+  font-size: 3.342606149341142vw;
 }
 .footer{
-  margin: 0px;
-  width: 100%;
-  height: 100%;
   background-color: black;
+  margin: 0;
 }
 .last{
-  margin: 0px;
-  padding: 20px;
+  padding: 0;
+  padding-top: 1.4641288433382138vw;
   color: white;
-  font-family: 'Calibri';
-  font-size: 150%;
+  font-family: 'Jaldi';
+  font-size: 2.342606149341142vw;
+  margin: 0;
 }
 .contact{
-  margin-right: 20px;
+  margin: 0;
   border-radius: 100%;
-  height: 4%;
-  width: 4%;
+  padding: 1.2342606149341142vw;
+  height:4.392386530014641vw;
+  width: 4.392386530014641vw;
 }
